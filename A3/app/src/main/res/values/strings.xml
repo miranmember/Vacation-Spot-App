@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A3</string>
+    <string-array name="Titles">
+        <item>Zion National Park</item> // https://travel.usnews.com/Zion_National_Park_UT/
+        <item>Lake Tahoe</item> // https://travel.usnews.com/Lake_Tahoe_CA/
+        <item>Aspen</item> // https://travel.usnews.com/Aspen_CO/
+        <item>Grand Canyon</item> // https://travel.usnews.com/Grand_Canyon_AZ/
+        <item>Yosemite </item> // https://travel.usnews.com/Yosemite_CA/
+    </string-array>
+    <string-array name="Web">
+        <item>https://travel.usnews.com/Zion_National_Park_UT/</item> //
+        <item>https://travel.usnews.com/Lake_Tahoe_CA/</item> //
+        <item>https://travel.usnews.com/Aspen_CO/</item> //
+        <item>https://travel.usnews.com/Grand_Canyon_AZ/</item> //
+        <item>https://travel.usnews.com/Yosemite_CA/</item> //
+    </string-array>
+</resources>
